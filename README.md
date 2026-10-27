@@ -22,25 +22,25 @@ The landing page introduces DupliDetect AI and highlights multilingual duplicate
 ### 2. Login page
 A sign-in interface for accessing the deduplication workspace. The screen illustrates email/password sign-in and Google/GitHub sign-in options in the UI.
 
-<img width="1917" height="900" alt="image" src="https://github.com/user-attachments/assets/c9fd78cd-6b09-49fe-9ae2-3aa4836e4f5e" />
+<img width="1000" height="400" alt="image" src="https://github.com/user-attachments/assets/c9fd78cd-6b09-49fe-9ae2-3aa4836e4f5e" />
 
 
 ### 3. Upload dataset
 The upload screen is designed for CSV input and shows the dataset upload area and the 50 MB limit displayed in the UI.
 
-<img width="1917" height="898" alt="image" src="https://github.com/user-attachments/assets/f5b78d74-12e3-445b-a338-10be7ceb76b2" />
+<img width="1000" height="400" alt="image" src="https://github.com/user-attachments/assets/f5b78d74-12e3-445b-a338-10be7ceb76b2" />
 
 
 ### 4. Upload successful
 After a dataset is loaded, the interface displays a confirmation state and a call to continue to analysis.
 
-<img width="1917" height="896" alt="image" src="https://github.com/user-attachments/assets/daf80177-5e38-4034-9584-3bc7df618391" />
+<img width="1000" height="400" alt="image" src="https://github.com/user-attachments/assets/daf80177-5e38-4034-9584-3bc7df618391" />
 
 
 ### 5. Results dashboard concept
 The dashboard UI presents record counts, duplicate candidates, language labels, similarity percentages, review statuses, and actions for merging or exporting data.
 
-<img width="1897" height="897" alt="image" src="https://github.com/user-attachments/assets/666940be-2c42-4fb9-97ec-e2df99f79bd4" />
+<img width="1000" height="400" alt="image" src="https://github.com/user-attachments/assets/666940be-2c42-4fb9-97ec-e2df99f79bd4" />
 
 
 ## 🚀 Key Features
